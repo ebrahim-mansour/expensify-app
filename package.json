@@ -37,7 +37,7 @@
     "redux": "^4.0.5",
     "sass-loader": "^8.0.2",
     "uuid": "^7.0.1",
-    "validator": "^12.2.0",
+    "validator": "^13.7.0",
     "webpack": "^4.41.6"
   },
   "devDependencies": {
